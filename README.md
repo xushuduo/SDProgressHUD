@@ -9,10 +9,13 @@
 ![Demo2](https://github.com/xushuduo/SDProgressHUD/raw/master/Demo/demo2.gif)
 
 ## Usage
-### 1、导入头文件
-```objective-c
-	#import "SDProgressHUD.h"
-```
+
+### 1、Setup
+* 使用 CocoaPods 安装：`pod 'SDProgressHUD'`
+* 下载后导入头文件：
+	* 下载整个代码仓库后，把 `SDProgressHUD` 文件夹拖进工程
+	* 导入头文件：`#import "SDProgressHUD.h"`
+
 
 ### 2、Show Success（显示完成指示器）
 ```objective-c
